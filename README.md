@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CDafeuAdams
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python on my path to become a Software Engineer
+- 👀 I’m interested in learning to code to automate tasks
+- 🌱 I’m currently learning Python on my path to become a Security Analyst
 - 💞️ I’m looking to collaborate on projects and tips
 - 📫 How to reach me c.dafeuadams@gmail.com
 
