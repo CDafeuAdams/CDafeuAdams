@@ -22,7 +22,7 @@
 
 [twitter]: https://twitter.com/TheWyNetwork
 [youtube]: https://www.youtube.com/c/TheWyNetwork
-[instagram]: https://www.instagram.com/TheWyNetwork/
+[instagram]: https://www.instagram.com/@TheWyNetwork
 [linkedin]: https://linkedin.com/in/celestedafeuadams
 
 <!--
