@@ -21,7 +21,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/TheWyNetwork
-[youtube]: https://www.youtube.com/c/TheWyNetwork
+[youtube]: https://www.youtube.com/@TheWyNetwork
 [instagram]: https://www.instagram.com/@TheWyNetwork
 [linkedin]: https://linkedin.com/in/celestedafeuadams
 
