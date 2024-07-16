@@ -5,7 +5,7 @@
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b> Active Directory Home Lab </b>
+- <b> File Permissions in Linux </b>
 
 <h2>📺 Popular YouTube Videos</h2>
 -[Tutotial Active Directory Home Lab] (https:
