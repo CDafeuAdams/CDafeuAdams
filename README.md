@@ -5,7 +5,7 @@
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b>File Permissions in Linux</b> (https://github.com/CDafeuAdams/File-Permissions-in-Linux)
+- [File Permissions in Linux] (https://github.com/CDafeuAdams/File-Permissions-in-Linux)
 
 <h2>📺 Popular YouTube Videos</h2>
 -[Tutotial Active Directory Home Lab] (https:
