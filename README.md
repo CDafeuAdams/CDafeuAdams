@@ -21,7 +21,7 @@
 
 [twitter]: https://twitter.com/TheWyNetwork
 [youtube]: https://www.youtube.com/@TheWyNetwork
-[Instagram]: https://www.instagram.com/@TheWyNetwork
+[Instagram]: https://www.instagram.com/TheWyNetwork
 [Linkedin]:https://linkedin.com/in/celestedafeuadams
 
 <!--
