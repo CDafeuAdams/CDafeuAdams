@@ -5,13 +5,13 @@
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- [File Permissions in Linux] (https://github.com/CDafeuAdams/File-Permissions-in-Linux)
+- File Permissions in Linux (https://github.com/CDafeuAdams/File-Permissions-in-Linux)
 
 <h2>📺 Popular YouTube Videos</h2>
 -[Tutotial Active Directory Home Lab] (https:
 
 <h2>📃 Certifications</h2>
-- [Google Cybersecurity Certification] (https://coursera.org/share/b97160d3c5de93905c498f5a8dd7a223)
+- Google Cybersecurity Certification (https://coursera.org/share/b97160d3c5de93905c498f5a8dd7a223)
 
 <h2> 🤳 Connect with me:</h2>
 
